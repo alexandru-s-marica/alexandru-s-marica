@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandru 👋
 
-I'm a **Computer Engineering** undergraduate at the **FMI, University of Bucharest** based in Bucharest, Romania. I enjoy building full-stack web applications, designing relational databases, and working on low-level systems and robotics projects.
+I'm a **Computer Engineering** undergraduate at **FMI, University of Bucharest** based in Bucharest, Romania. I enjoy building full-stack web applications, designing relational databases, and working on low-level systems and robotics projects.
 
 - 🔭 **Currently working on:** Embedded systems & robotics (`IntroductionToRobotics`) and backend architecture
 - 🏛️ **Community:** Member & (former) Project Manager at **ASMI** (Mathematics and Informatics Students' Association) — organized **GitGood Hack 2026** (with Microsoft) and **Smarthack 2025 & 2026**
